@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 ---
 # CONSULENZA INTEGRATA
 
-Affidati ai nostri servizi per crescere la tua attività. 
+Affidati ai nostri servizi per far crescere la tua attività.
