@@ -11,17 +11,12 @@ sections:
   match: "*"
 - type: directory
   path: exampleSite/content/team
-  label: Team
+  label: Chi Siamo
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/services
-  label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/404
-  label: '404'
+  label: Aree di Attività
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
