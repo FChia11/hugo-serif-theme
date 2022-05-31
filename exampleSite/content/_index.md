@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 ---
 # CONSULENZA INTEGRATA
 
-Scopri quali servizi di supporto possiamo offrire per la tua attività
+Affidati ai nostri servizi per far crescere la tua attività. 
