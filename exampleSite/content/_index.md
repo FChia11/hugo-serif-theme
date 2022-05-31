@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: HOMEPAGE
 meta_title: Studio Tax Planning Sacile
 description: ''
 intro_image: images/illustrations/pointing.svg
