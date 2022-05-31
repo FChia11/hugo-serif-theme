@@ -46,9 +46,9 @@ show_contact_box = true
 show_services_button = true
 [params.logo]
 alt = "STUDIO TAX PLANNING SACILE"
-desktop = "images/logo/logo.svg"
+desktop = "images/logo.jpg"
 desktop_height = "36px"
-mobile = "images/logo/logo-mobile.svg"
+mobile = "images/logo.jpg"
 mobile_height = "36px"
 [params.seo]
 meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
