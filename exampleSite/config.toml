@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
-title = "Hugo Serif Theme"
+title = "STUDIO TAX PLANNING SACILE"
 [[menu.footer]]
 name = "Contatti"
 url = "/contact/"
@@ -52,7 +52,7 @@ mobile = "images/logo.jpg"
 mobile_height = "36px"
 [params.seo]
 meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
-meta_twitter_creator = "@zerostaticio"
-meta_twitter_site = "@zerostaticio"
+meta_twitter_creator = "@TaxSacile"
+meta_twitter_site = "@TaxSacile"
 [params.team]
 summary_large_truncate = 120
