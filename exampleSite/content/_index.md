@@ -2,7 +2,7 @@
 title: HOMEPAGE
 meta_title: Studio Tax Planning Sacile
 description: ''
-intro_image: images/illustrations/trial.jpg
+intro_image: images/illustrations/business logo.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
