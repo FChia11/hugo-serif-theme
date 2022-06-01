@@ -30,7 +30,7 @@ min = "0.55.0"
 google_analytics_id = ""
 google_tag_manager_id = ""
 [params.colors]
-black = "#2f2f41"
+black = "#000080"
 grey = "#5C5A5A"
 primary = "#191970"
 white = "#ffffff"
