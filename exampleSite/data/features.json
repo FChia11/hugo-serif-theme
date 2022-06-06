@@ -1,17 +1,17 @@
 [
   {
     "title": "Servizio Personalizzato",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "I nostri servizi di consulenza sono a misura delle vostre esigenze.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Contabili Certificati",
-    "description": "All members of our team are certified accountants.",
+    "description": "I membri del nostro team hanno competenze e titoli specifici in materia.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Aggiornamento Continuo",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "L'upskilling è il punto focale delle nostre competenze professionali.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
