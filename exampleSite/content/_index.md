@@ -2,7 +2,7 @@
 title: HOMEPAGE
 meta_title: Studio Tax Planning Sacile
 description: ''
-intro_image: images/illustrations/pointing.svg
+intro_image: images/consulenza_amministrativa-e1551460279729.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
