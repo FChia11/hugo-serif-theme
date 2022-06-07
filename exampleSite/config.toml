@@ -53,4 +53,26 @@ meta_twitter_site = "@TaxSacile"
 summary_large_truncate = 120
 [params.footer]
 copyright_text = 'Copyright © 2022 | Tutti i diritti riservati.'
-
+#################### default parameters ################################
+[params]
+logo = "images/Capture Logo.jpg"
+logo_width = "120px"
+# Meta data
+description = "This is meta description"
+# contact info
+contact_info = "Via Martiri Sfriso 11, 33077 Sacile (PN)"
+# Preloader
+preloader = true
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
+map_center_lat = "25.773606"
+map_center_lng = "-80.732655"
+map_position_lat = "25.7635916"
+map_position_lng = "-80.1937595"
+map_marker = "images/map-marker.png"
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
