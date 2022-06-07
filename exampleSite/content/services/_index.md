@@ -5,7 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-![](/uploads/4.jpg)
+![](/uploads/foto61.jpg)
 
 # SERVIZI
 
