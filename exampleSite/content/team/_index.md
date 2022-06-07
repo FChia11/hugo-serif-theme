@@ -1,12 +1,6 @@
----
-title: 'Chi Siamo'
-description: 'Un team di professionisti con quarant'anni di esperienza sul campo'
-intro_image: 'images/team/consulenza_amministrativa-e1551460279729.jpg'
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
----
-
 # Chi Siamo
+
+UN TEAM DI PROFESSIONISTI CON AMPIA ESPERIENZA SUL CAMPO. 
 
 **Tax Planning** è uno studio di **consulenza professionale** costituito da Antonio Chiaradia nel **1983**.
 
