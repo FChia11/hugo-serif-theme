@@ -1,7 +1,3 @@
----
-title: AREE DI ATTIVITA'
-
----
 ![](/uploads/foto61.jpg)
 
 # SERVIZI
