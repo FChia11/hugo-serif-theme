@@ -1,15 +1,13 @@
 ---
-title: CHI SIAMO
-intro_image: 4.jpg
+title: Chi Siamo
+intro_image: images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# CHI SIAMO
+# Chi Siamo
 
 UN TEAM DI PROFESSIONISTI PER LA TUA ATTIVITA'
-
-![](/uploads/4.jpg)
 
 **Tax Planning** è uno studio di **consulenza professionale** costituito da Antonio Chiaradia nel **1983**.
 
