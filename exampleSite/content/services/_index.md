@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Servizi su misura per la tua attività
 
-Il nostro team qualificato può aiutarti a controllare le spese del tuo business e aumentarne la redditività. Scopri in quali rami specifici possiamo prestarti assistenza.  
+Il nostro team può assisterti nella gestione di numerosi processi gestionali e aziendali, con lo scopo di aumentarne la redditività. Scopri in quali rami specifici possiamo prestarti assistenza.  
