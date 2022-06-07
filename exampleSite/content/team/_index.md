@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: false
 
 UN TEAM DI PROFESSIONISTI PER LA TUA ATTIVITA'
 
-![](/uploads/4.JPG)
+![](/uploads/4.jpg)
 
 **Tax Planning** è uno studio di **consulenza professionale** costituito da Antonio Chiaradia nel **1983**.
 
