@@ -1,12 +1,10 @@
 ---
 title: AREE DI ATTIVITA'
-intro_image: 4.jpg
+intro_image: foto61.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# AREE DI ATTIVITA'
+# SERVIZI
 
-DIVERSI SERVIZI PER AIUTARTI A MASSIMIZZARE LA TUA REDDITIVITA'. 
-
-![](/uploads/4.jpg)
+Affidati ai nostri servizi per controllare le spese e aumentare la tua redditività. 
