@@ -1,10 +1,11 @@
 ---
-title: Chi Siamo
+title: 'Chi Siamo'
+description: 'Un team di professionisti con quarant'anni di esperienza sul campo'
 intro_image: images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
-
+intro_image_hide_on_mobile: false
 ---
+
 # Chi Siamo
 
 UN TEAM DI PROFESSIONISTI PER LA TUA ATTIVITA'
