@@ -2,10 +2,7 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
-title = "Studio Tax Planning Sacile, 
-
-         Via Martiri Sfriso 11, Sacile (PN)"
-         
+title = "Studio Tax Planning Sacile"
 [[menu.footer]]
 name = "Contatti"
 url = "/contact/"
@@ -56,11 +53,6 @@ meta_twitter_site = "@TaxSacile"
 summary_large_truncate = 120
 [params.footer]
 copyright_text = 'Copyright © 2022 | Tutti i diritti riservati.'
-show_menu_footer_primary = true 
-show_menu_footer_secondary = true 
-[[menu.footer_secondary]]
-name = "Via Martiri Sfriso 11, 33077 Sacile (PN)"
-weight = 1
 [params.cookies]
 enable = true
 expire_days = 2
