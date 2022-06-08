@@ -44,7 +44,7 @@ alt = "STUDIO TAX PLANNING SACILE"
 desktop = "images/Capture Black.jpg"
 desktop_height = "55px"
 mobile = "images/Capture Black.jpg"
-mobile_height = "36px"
+mobile_height = "34px"
 [params.seo]
 meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 meta_twitter_creator = "@TaxSacile"
