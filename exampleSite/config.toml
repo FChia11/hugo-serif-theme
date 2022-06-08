@@ -43,7 +43,7 @@ show_services_button = true
 alt = "STUDIO TAX PLANNING SACILE"
 desktop = "images/Capture Black.jpg"
 desktop_height = "55px"
-mobile = "images/Capture Logo.jpg"
+mobile = "images/Capture Black.jpg"
 mobile_height = "36px"
 [params.seo]
 meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
