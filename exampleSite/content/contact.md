@@ -26,8 +26,4 @@ Via Martiri Sfriso 11,
 | Sabato       | Chiuso              |
 | Domenica     | Chiuso              | 
 
-<iframe src="https://www.google.com/maps/place/Studio+Tax+Planning+Sacile/@45.9536469,12.495937,15z/data=!4m5!3m4!1s0x0:0xba66cc35df9ec116!8m2!3d45.9536469!4d12.495937" 
-        width="600" 
-        height="450" 
-        frameborder="0" 
-        style="border:0"></iframe>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.493273615837099%2C45.95229843057135%2C12.498294711112978%2C45.95478605080349&amp;layer=hot" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/45.95354/12.49578&amp;layers=HNG">Visualizza mappa ingrandita</a></small>
