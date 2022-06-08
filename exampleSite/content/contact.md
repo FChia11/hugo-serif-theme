@@ -9,7 +9,7 @@ Via Martiri Sfriso 11,
 
 33077 Sacile (PN)
 
-Si prega di telefonare per un appuntamento.    
+**Si prega di telefonare per un appuntamento.**    
      
 | Giorno       | Orari di Apertura   |
 | ------------ | ------------------- |
