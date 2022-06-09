@@ -56,5 +56,5 @@ copyright_text = 'Copyright © 2022 | Tutti i diritti riservati.'
 [params.cookies]
 enable = true
 expire_days = 2
-[params]
+[params.favicon]
 favicon = "static/images/favicon-32x32.svg"
