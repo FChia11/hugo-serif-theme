@@ -56,13 +56,5 @@ copyright_text = 'Copyright © 2022 | Tutti i diritti riservati.'
 [params.cookies]
 enable = true
 expire_days = 2
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
-map_center_lat = "25.773606"
-map_center_lng = "-80.732655"
-map_position_lat = "25.7635916"
-map_position_lng = "-80.1937595"
-map_marker = "static/images/map-marker.png"
 [params]
 favicon = "static/images/favicon-32x32.svg"
