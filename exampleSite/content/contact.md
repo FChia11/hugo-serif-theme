@@ -26,7 +26,3 @@ Via Martiri Sfriso 11,
 |  | Chiuso |
 | Sabato | Chiuso |
 | Domenica | Chiuso |
-
-**Mappa** 
-
-![](/uploads/capture-map1.JPG)
