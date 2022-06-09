@@ -2,8 +2,8 @@
 title: Contatti
 date: 2018-02-22T17:01:34.000+07:00
 layout: contact
----
 
+---
 **Indirizzo**
 
 Via Martiri Sfriso 11,
@@ -27,6 +27,8 @@ Via Martiri Sfriso 11,
 | Sabato | Chiuso |
 | Domenica | Chiuso |
 
-**Mappa** 
+**Mappa**
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.494523525238039%2C45.952923143303146%2C12.497034072875978%2C45.954166953356456&amp;layer=mapnik&amp;marker=45.953544110476834%2C12.495778799057007" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.95354&amp;mlon=12.49578#map=19/45.95355/12.49578&amp;layers=NG">Visualizza mappa ingrandita</a></small> 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.494523525238039%2C45.952923143303146%2C12.497034072875978%2C45.954166953356456&layer=mapnik&marker=45.953544110476834%2C12.495778799057007" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.95354&mlon=12.49578#map=19/45.95355/12.49578&layers=NG">Visualizza mappa ingrandita</a></small> 
+
+![](/uploads/capture-map1.JPG)
