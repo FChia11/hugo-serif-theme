@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
-title = "Studio Tax Planning Sacile"
+title = "STUDIO TAX PLANNING SACILE"
 [[menu.footer]]
 name = "Contatti"
 url = "/contact/"
