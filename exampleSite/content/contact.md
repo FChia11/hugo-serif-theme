@@ -1,32 +1,32 @@
 ---
 title: Contatti
 date: 2018-02-22T17:01:34.000+07:00
-layout: contact 
+layout: contact
+
 ---
-**Indirizzo** 
+**Indirizzo**
 
 Via Martiri Sfriso 11,
 
 33077 Sacile (PN)
 
-**Si prega di telefonare per un appuntamento.**    
-     
-| Giorno       | Orari di Apertura   |
-| ------------ | ------------------- |
-| Lunedì       | 10:00am - 12:00pm   |
-|              | 16:30pm - 18:30pm   |
-| Martedì      | 10:00am - 12:00pm   |
-|              | 16:30pm - 18:30pm   |
-| Mercoledì    | 10:00am - 12:00pm   |
-|              | 16:30pm - 18:30pm   |
-| Giovedì      | 10:00am - 12:00pm   |
-|              | 16:30pm - 18:30pm   |
-| Venerdì      | 10:00am - 12:00pm   |
-|              | Chiuso              |
-| Sabato       | Chiuso              |
-| Domenica     | Chiuso              | 
+**Si prega di telefonare per un appuntamento.**
+
+| Giorno | Orari di Apertura |
+| --- | --- |
+| Lunedì | 10:00am - 12:00pm |
+|  | 16:30pm - 18:30pm |
+| Martedì | 10:00am - 12:00pm |
+|  | 16:30pm - 18:30pm |
+| Mercoledì | 10:00am - 12:00pm |
+|  | 16:30pm - 18:30pm |
+| Giovedì | 10:00am - 12:00pm |
+|  | 16:30pm - 18:30pm |
+| Venerdì | 10:00am - 12:00pm |
+|  | Chiuso |
+| Sabato | Chiuso |
+| Domenica | Chiuso |
 
 **Mappa** 
 
-![Capture Map1](https://user-images.githubusercontent.com/67108774/172806779-30e9a82a-3ceb-462f-a664-61fde603c49f.JPG)
-
+![](/uploads/capture-map1.JPG)
