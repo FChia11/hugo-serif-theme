@@ -58,3 +58,7 @@ enable = true
 expire_days = 2
 [params.favicon]
 favicon = "static/images/favicon-32x32.svg"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
