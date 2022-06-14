@@ -62,3 +62,7 @@ favicon = "static/images/favicon-32x32.svg"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
