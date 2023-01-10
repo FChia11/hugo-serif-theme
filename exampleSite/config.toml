@@ -52,7 +52,7 @@ meta_twitter_site = "@TaxSacile"
 [params.team]
 summary_large_truncate = 120
 [params.footer]
-copyright_text = 'Copyright © 2022 | Tutti i diritti riservati.'
+copyright_text = 'Copyright © 2023 | Tutti i diritti riservati.'
 [params.cookies]
 enable = true
 expire_days = 2
